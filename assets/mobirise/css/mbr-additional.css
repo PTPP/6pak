@@ -1777,6 +1777,24 @@ body {
 .cid-qK2EpiwdBv .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qK5K0MvHL8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+@media (min-width: 992px) {
+  .cid-qK5K0MvHL8 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qK5K0MvHL8 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qK5K0MvHL8 .mbr-text {
+  color: #232323;
+}
 .cid-qK2EL383XI {
   padding-top: 60px;
   padding-bottom: 60px;
