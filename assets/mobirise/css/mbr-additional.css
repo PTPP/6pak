@@ -1803,7 +1803,7 @@ body {
 .cid-qK2EZM2Kay {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-qK2EZM2Kay .card-box {
   padding: 0 2rem;
@@ -1839,6 +1839,42 @@ body {
 .cid-qK2EZM2Kay .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-qK5KFu7cro {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qK5KFu7cro .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qK5KFu7cro .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qK5KFu7cro .mbr-text {
+  color: #767676;
+}
+.cid-qK5KG6F2im {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+@media (min-width: 992px) {
+  .cid-qK5KG6F2im .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qK5KG6F2im .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qK5KG6F2im .mbr-text {
+  color: #232323;
 }
 .cid-qzREH5TeAB {
   padding-top: 60px;
